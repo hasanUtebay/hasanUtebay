@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasanutebay
 - 👀 I’m interested in asp .Net Core, Back-End and Javascript
-- 🌱 I’m currently learning Javascript and Angular
+- 🌱 I’m currently learning C#, .Net and Angular
 - 📫 How to reach me with mail (hasanutebay@gmail.com)
 
 <!---
